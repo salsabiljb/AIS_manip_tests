@@ -1,0 +1,7 @@
+[package]
+name = "RustAis_parsing_from_file"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ais = "0.11.0"
